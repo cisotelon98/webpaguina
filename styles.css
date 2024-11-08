@@ -1,0 +1,55 @@
+            /* Estilos globales */
+            body {
+                font-family: 'Segoe UI', sans-serif;
+                margin: 30;
+                padding: 30;
+                background-color: #f0f0f5;
+                color: #333;
+                line-height: 3;
+            }
+
+            /* Estilos para títulos */
+            h1, h2, h3 {
+                color: #2c3e50;
+                 text-align: center
+            }
+
+            /* Estilos para párrafos */
+            p {
+                margin-bottom: 1.5em;
+            }
+
+            /* Estilos para tablas */
+            table {
+                width: 100%;
+                border-collapse: collapse;
+            }
+
+            table, th, td {
+                border: 3px solid #ccc;
+            }
+
+            th {
+                background-color: #eaeaea;
+            }
+
+            /* Estilos para imágenes */
+            img {
+                 display: block;
+            margin: 0 auto;
+            max-width: 100%;
+            height: auto;
+            }
+            a {
+            text-align: center;
+            display: block;
+            font-size: 20px;
+            color: #007bff;
+            text-decoration: none;
+            margin: 10px 0;
+            }
+
+            /* Opcional: Cambiar el color del enlace al pasar el mouse */
+            a:hover {
+            color: #0056b3; /* Cambia el color al pasar el mouse */
+}
